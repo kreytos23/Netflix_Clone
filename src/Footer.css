@@ -1,0 +1,35 @@
+.footer__social{
+    padding-left: 50px;
+    margin-top: 60px;
+    color: gray;
+    padding-bottom: 20px;
+    display: flex;
+}
+
+.footer__social__icons{
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.footer__options{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 50px;
+    padding-bottom: 20px;
+}
+
+.menu{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    margin-right: 130px;
+}
+
+.menu > a{
+    color: gray;
+    text-decoration: none;
+    font-size: 15px;
+    margin-bottom: 20px;
+    width: 200px;
+    max-width: 100%;
+}
